@@ -23,7 +23,7 @@ import {
         <Image
           className="object-contain"
           src="https://links.papareact.com/ua6"
-          alt="meaning"
+          
           width={200}
           height={100}
         />
